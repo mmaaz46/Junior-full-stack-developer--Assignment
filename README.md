@@ -1,1 +1,1 @@
-# Junior-full-stack-developer--Assignment
+# Junior-full-stack-developer-Assignment
